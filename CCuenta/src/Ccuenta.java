@@ -38,4 +38,9 @@ public class Ccuenta {
 	public String getCuenta() {
 		return cuenta;
 	}
+	
+	//Método que devuelve el nombre del titular de la cuenta
+	public String getNombre() {
+		return nombre;
+	}
 }
